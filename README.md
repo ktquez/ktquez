@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<a href="https://twitter.com/ktquez" alt="Twitter">
-  <img src="https://img.shields.io/badge/-@ktquez-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ktquez" />
-</a>
+### Hi there 👋, welcome!
 
 
 <!--
